@@ -1,2 +1,2 @@
-# TASK2
-Project Name: Simple Calculator
+# TASKS
+Internship Projects for Codsoft 
